@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/home/khaled/my pro/java-pro/.metadata/.plugins/org.eclipse.jdt.core
+4131893870.index
+2932501895.index
